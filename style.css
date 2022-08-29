@@ -13,4 +13,7 @@ button {
     color: purple;
     background: black;
     cursor: pointer;
+    width: 70px;
+    height: 40px;
+    border-radius: 4px;
 }
